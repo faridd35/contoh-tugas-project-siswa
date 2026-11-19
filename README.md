@@ -17,5 +17,4 @@ Project Ujian Tengah Semester (UTS) mata pelajaran Pemrograman Dasar / Koding & 
 * `output-python.png` : Screenshot hasil menjalankan program Python.
 
 ## Screenshot Output Program
-![Output Program C](output-c.png)
-![Output Program Python](output-python.png)
+![Output Program](output-program.png)
