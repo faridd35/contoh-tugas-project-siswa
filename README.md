@@ -18,3 +18,6 @@ Project Ujian Tengah Semester (UTS) mata pelajaran Pemrograman Dasar / Koding & 
 
 ## Screenshot Output Program
 ![Output Program](output-program.png)
+
+---
+*disusun untuk contoh tugas siswa X PPLG SMKN 21 Jakarta*
