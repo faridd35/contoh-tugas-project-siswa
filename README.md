@@ -2,10 +2,10 @@
 
 Project Ujian Tengah Semester (UTS) mata pelajaran Pemrograman Dasar / Koding & Kecerdasan Artifisial kelas X PPLG. Aplikasi ini dibuat dalam dua versi bahasa pemrograman, yaitu **C** dan **Python**.
 
-## Identitas Siswa
-* **Nama Lengkap:** Muhammad Farid
-* **Jurusan:** Pendidikan Teknik Informatika
-* **NIM:** 1512623016
+## Identitas Siswa (sy gurunya)
+* **Nama Lengkap :** Muhammad Farid
+* **Jurusan      :** Pendidikan Teknik Informatika
+* **NIM          :** 1512623016
 
 ## Deskripsi Aplikasi
 Kalkulator Hebat adalah aplikasi yang sy buat untuk membantu saya menghitung 2 angka, karena saya mengalami ksulitan saat memgerjakan tugas mtk jir😭😭
