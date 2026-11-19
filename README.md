@@ -1,10 +1,10 @@
 # Judul Aplikasi Kalian
 
-Project Ujian Tengah Semester (UTS) mata pelajaran Pemrograman Dasar / Koding & Kecerdasan Artifisial kelas X RPL. Aplikasi ini dibuat dalam dua versi bahasa pemrograman, yaitu **C** dan **Python**.
+Project Ujian Tengah Semester (UTS) mata pelajaran Pemrograman Dasar / Koding & Kecerdasan Artifisial kelas X PPLG. Aplikasi ini dibuat dalam dua versi bahasa pemrograman, yaitu **C** dan **Python**.
 
 ## Identitas Siswa
 * **Nama Lengkap:** [Isi Nama Lengkap]
-* **Kelas:** X RPL
+* **Kelas:** X PPLG
 * **No. Absen:** [Isi Nomor Absen]
 
 ## Deskripsi Aplikasi
@@ -12,4 +12,10 @@ Project Ujian Tengah Semester (UTS) mata pelajaran Pemrograman Dasar / Koding & 
 
 ## Daftar File
 * `nama_file.c` : Kode program utama menggunakan bahasa C.
-* `nama_file.py` : Kode program utama menggunakan bahasa Python.=
+* `nama_file.py` : Kode program utama menggunakan bahasa Python.
+* `output-c.png` : Screenshot hasil menjalankan program C.
+* `output-python.png` : Screenshot hasil menjalankan program Python.
+
+## Screenshot Output Program
+![Output Program C](output-c.png)
+![Output Program Python](output-python.png)
