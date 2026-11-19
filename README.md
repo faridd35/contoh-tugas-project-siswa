@@ -2,7 +2,7 @@
 
 Project Ujian Tengah Semester (UTS) mata pelajaran Pemrograman Dasar / Koding & Kecerdasan Artifisial kelas X PPLG. Aplikasi ini dibuat dalam dua versi bahasa pemrograman, yaitu **C** dan **Python**.
 
-## Identitas Siswa (sy gurunya)
+## Identitas Siswa (ak gurunya)
 * **Nama Lengkap :** Muhammad Farid
 * **Jurusan      :** Pendidikan Teknik Informatika
 * **NIM          :** 1512623016
