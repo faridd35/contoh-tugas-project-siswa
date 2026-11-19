@@ -1,20 +1,19 @@
-# Judul Aplikasi Kalian
+# Kalkulator Hebat
 
 Project Ujian Tengah Semester (UTS) mata pelajaran Pemrograman Dasar / Koding & Kecerdasan Artifisial kelas X PPLG. Aplikasi ini dibuat dalam dua versi bahasa pemrograman, yaitu **C** dan **Python**.
 
 ## Identitas Siswa
-* **Nama Lengkap:** [Isi Nama Lengkap]
-* **Kelas:** X PPLG
-* **No. Absen:** [Isi Nomor Absen]
+* **Nama Lengkap:** Muhammad Farid
+* **Jurusan:** Pendidikan Teknik Informatika
+* **NIM:** 1512623016
 
 ## Deskripsi Aplikasi
-[Jelaskan secara singkat aplikasi apa yang kalian buat, fungsi utamanya untuk apa, dan fitur apa saja yang ada di dalamnya.]
+Kalkulator Hebat adalah aplikasi yang sy buat untuk membantu saya menghitung 2 angka, karena saya mengalami ksulitan saat memgerjakan tugas mtk jir😭😭
 
 ## Daftar File
 * `nama_file.c` : Kode program utama menggunakan bahasa C.
 * `nama_file.py` : Kode program utama menggunakan bahasa Python.
-* `output-c.png` : Screenshot hasil menjalankan program C.
-* `output-python.png` : Screenshot hasil menjalankan program Python.
+* `output-program.png` : Screenshot hasil menjalankan program C.
 
 ## Screenshot Output Program
 ![Output Program](output-program.png)
